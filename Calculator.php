@@ -1,5 +1,5 @@
 <?php
-include 'function/calc.php';
+include '/calc.php';
 ?>
 
 <!DOCTYPE html>
